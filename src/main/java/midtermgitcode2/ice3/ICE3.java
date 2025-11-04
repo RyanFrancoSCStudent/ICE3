@@ -20,6 +20,6 @@ public class ICE3 {
 
         bakery.start();
        
-        System.out.println("This is Rev1");
+        System.out.println("This is Rev");
     }
 }
